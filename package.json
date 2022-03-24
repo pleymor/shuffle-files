@@ -1,6 +1,6 @@
 {
   "name": "shuffle-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shuffles files in the given directory (not recursive)",
   "main": "index.js",
   "scripts": {
