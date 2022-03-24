@@ -1,0 +1,14 @@
+{
+  "name": "shuffle-files",
+  "version": "1.0.0",
+  "description": "Shuffles files in the given directory (not recursive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shuffle", "files"
+  ],
+  "author": "pleymor",
+  "license": "ISC"
+}
